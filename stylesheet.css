@@ -64,7 +64,7 @@ float:left;
     max-height: 100%;
 }
 
-@media screen and (min-width: 1125px) { #blue{ Width: 100%!important; height: auto;}  
+@media screen and (min-width: 1125px) { #blue{ Width: 100%!important; height: auto; margin-right: auto; margin-left:auto;}  
 	
 }
 
