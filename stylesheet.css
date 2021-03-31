@@ -68,11 +68,11 @@ float:left;
 }
 
 
-@media screen and (max-device-width: 1400px) { #text{ width: 100%!important;}  
+@media screen and (max-device-width: 1400px) { #text{ width: 100%!important; height: auto;}  
 	
 }
 
 
-@media screen and (max-device-width: 1400px) { #title{ width: 100%!important;}  
+@media screen and (max-device-width: 1400px) { #title{ width: 100%!important; height: auto;}  
 	
 }
