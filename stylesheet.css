@@ -64,18 +64,18 @@ float:left;
 }
 
 @media screen and and (min-device-width: 320px) 
-  and (max-device-width: 900px) { #blue{ Width: 100%!important; height: auto;}  
+  and (max-device-width: 1300px) { #blue{ Width: 100%!important; height: auto;}  
 	
 }
 
 
 @media screen and and (min-device-width: 320px) 
-  and (max-device-width: 900px) { #text{ width: 100%!important;}  
+  and (max-device-width: 1300px) { #text{ width: 100%!important;}  
 	
 }
 
 
 @media screen and and (min-device-width: 320px) 
-  and (max-device-width: 900px) { #title{ width: 100%!important;}  
+  and (max-device-width: 1300px) { #title{ width: 100%!important;}  
 	
 }
